@@ -1,6 +1,6 @@
 <script>
   import "../app.scss";
-  import Navigation from "../lib/components/globals/navigation.svelte";
+  import Navigation from "../lib/components/globals/navigation/navigation.svelte";
 </script>
 
 <main>
